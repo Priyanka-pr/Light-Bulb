@@ -1,0 +1,16 @@
+body{
+    background-color: #000;
+}
+button{
+    padding: 1rem;
+    box-sizing: border-box;
+    box-shadow: 5px 5px 10px rgba(255, 255, 255, 0.104);
+    cursor: pointer;
+    margin: 0 auto;
+    display: block;
+}
+img{
+    margin: 0 auto;
+    display: block;
+    height: 400px;
+}
